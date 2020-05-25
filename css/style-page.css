@@ -564,7 +564,7 @@ img{
 
 
 /* Intro style start */
-.belyi {
+.belyi, .intro {
     min-height: 100vh;
     padding-top: 263px;
     padding-bottom: 100px;

@@ -565,7 +565,7 @@ img{
 
 /* Intro style start */
 .belyi, .intro {
-    min-height: 100vh;
+    max-height: 100vh;
     padding-top: 263px;
     padding-bottom: 100px;
     background: url(../img/gelik3-min.jpg) no-repeat center;
